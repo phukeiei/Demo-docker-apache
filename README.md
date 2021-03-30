@@ -1,9 +1,10 @@
 ## General info
-PHP7.2.2-apache, phpMyAdmin and MySQL images
-
+Have 3 images are PHP7.2.2-apache, phpMyAdmin and MySQL
+have Bootrap5, JQuery and CI3
 ## Setup
 ```
 $ cd Demo-docker-apache
 $ docker-compose up -d
-$ load http://localhost:8100/ in your browser.
 ```
+## Run
+Load http://localhost:8100/ in your browser.
